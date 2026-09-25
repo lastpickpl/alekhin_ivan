@@ -1,8 +1,8 @@
 def main():
-    print('My first git program')
-    print('And i change code every day')
-    print('the third line')
-    print('Unknown writes here')
+    print('Алехин Иван')
+    print('ивт-ивс-203б, подгр 1')
+    print('25.09.2026')
+    print('нажми на кнопку')
     
 if __name__ == '__main__':
     main()
